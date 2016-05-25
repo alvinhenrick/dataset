@@ -12,7 +12,7 @@
 
 
 
-Task 1 :  How many auctions were held ?
-Task 2 :  How many bids per item ?
-Task 3 :  What is the min number of bids per item ? what’s the average? What’s the max
-Task 4 :  Get the auctions with closing price > 75
+Task 1 :  How many auctions were held ?  
+Task 2 :  How many bids per item ?  
+Task 3 :  What is the min number of bids per item ? what’s the average? What’s the max  
+Task 4 :  Get the auctions with closing price > 75  
